@@ -1,0 +1,6 @@
+model,effect,estimate
+ARDL_no_petrolero,impacto_acumulado_homicidios_t_t1,-0.02738783510308082
+ARDL_no_petrolero,multiplicador_dinamico_homicidios,-0.018288686556490123
+ARDL_actividad_vulnerable,impacto_acumulado_homicidios_t_t1,-0.050668783708264366
+ARDL_actividad_vulnerable,multiplicador_dinamico_homicidios,-0.033477891235650724
+ARDL_no_petrolero,efecto_toque_queda_contemporaneo,-9.56307494396858
