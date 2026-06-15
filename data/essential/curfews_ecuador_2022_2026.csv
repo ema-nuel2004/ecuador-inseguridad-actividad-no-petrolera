@@ -1,0 +1,6 @@
+start_date,end_date,measure,territory,population_weight,hours_restricted_per_day,type
+2022-11-01,2022-12-15,Decreto 590 / estados de excepción focalizados,"Guayas, Esmeraldas, Santo Domingo",0.34,6,seguridad
+2024-01-08,2024-04-08,Conflicto armado interno y toque de queda nacional/focalizado,Nacional/focalizado,0.7,6,seguridad
+2024-05-22,2024-07-21,Estado de excepción en siete provincias y zona de Azuay,"Guayas, El Oro, Santa Elena, Manabí, Sucumbíos, Orellana, Los Ríos, Camilo Ponce Enríquez",0.48,0,estado_excepcion_sin_toque_general
+2026-03-15,2026-03-30,Toque de queda nocturno 23h00-05h00,"Guayas, El Oro, Los Ríos, Santo Domingo de los Tsáchilas",0.35,6,seguridad
+2026-05-03,2026-05-18,Toque de queda nocturno 23h00-05h00,Nueve provincias y cantones específicos,0.45,6,seguridad_fuera_muestra_bce
